@@ -8,4 +8,4 @@ This is the second time I deploy my website, but the first one was just a landin
 
 I decided also to write more on this blog about my journey as a data scientist.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Check out the [Jekyll docs](https://jekyllrb.com/docs/) for more info on how to get the most out of Jekyll.
