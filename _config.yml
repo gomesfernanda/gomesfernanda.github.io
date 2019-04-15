@@ -3,14 +3,14 @@ title: Fernanda Gomes
 description: 'Data Scientist'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-109670866-3'
+disqus_shortname: 'disqus_eq4bSBcr7f'
 
 author:
   name: 'Fernanda Gomes'
   email: fergomes@gmail.com
   twitter_username: gofernanda_
-  #facebook_username: joshgerdes
+  #facebook_username: blablablablabla
   github_username:  gomesfernanda
   linkedin_username:  g0mesfernanda
 
