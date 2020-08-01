@@ -7,6 +7,10 @@ tags: [productivity, personal development]
 
 *(Reading time: 4 minutes)*
 
+Disclaimer: This is not a guide on how to implement OKRs in your personal life, but I'd be glad to help - just write me!. Here I'm just aiming to explain my mental state in the past year, my motivation and a bit on how I got where I am.
+
+-
+
 I have a problem: I'm not where I want to be.
 
 Ok, I know this is feeling of restlessness is very common, but in the past year, it has been growing and annoying me more with each passing day.
