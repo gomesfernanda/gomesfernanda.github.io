@@ -22,7 +22,7 @@ On the career side, I always believed I needed a mentor to help me with these "t
 
 Last year I invested some time reading about time management, productivity, methodologies to get things done (including the GTD itself). I had resisted the urge to enter this world before because "productivity gurus" usually talk in a way that treats one's life as if it were a company: you have to optimize your time, extrapolate efficiency, be productive ALWAYS, wake up at 5 am! GOD. No. Uh-uh. I'm not a business, I'm not punching the clock in and out my house, I don't have a KPMG auditor knocking on my door.
 
-Although I'm very proficient with the technical and practical side of OKRs and writing and managing them, I hadn't considered implementing them in my real life for the reasons above. I used to separate very well what belonged to my corporate or my personal life.
+Although I'm very proficient with the technical and practical side of [OKRs](https://www.perdoo.com/the-ultimate-okr-guide/) and writing and managing them, I hadn't considered implementing them in my real life for the reasons above. I used to separate very well what belonged to my corporate or my personal life.
 
 And then, COVID-19 happened. During the forced confinement, all I read about time management and productivity, as well as the issues bothering me, were sinking in until one given night I decided to put into practice and give it a try. I chose to be my own mentor. The thing is, the methodologies may not work if you follow them rigorously: at least for me, it's a combination of tools and systems that get me going. It's a trial and error thing.
 
@@ -42,3 +42,7 @@ I found out the perfect combination of tools to assist me on this journey:
 3. A bullet journal; yes, super "not techie," but that's precisely why I use it: I need to shake off the "robotic sensation" of this whole thing and give it a personalized, human touch. Also, it goes well with my interest in stationery, art (on a very simple form), and I like writing on paper, it gives me the sensation of something REAL that I commit to, instead of pixels on a screen.
 
 I've been running my little experiment for 2 months now, and so far, so good. It's very satisfying to complete tasks with a greater purpose behind them and realizing I can be my own mentor. I mean, I haven't given up on having someone more experienced tailoring my future along with me, but for now, I'll be thrilled if I get where I want to be by December, and I'm sure I will!
+
+PS: and yes, writing blog posts is part of my OKRs!!!
+
+![Rocky](https://media.giphy.com/media/W9G8OK82R3dfO/giphy.gif)
