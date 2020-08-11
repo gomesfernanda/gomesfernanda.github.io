@@ -1,6 +1,6 @@
 ---
 title:  "Implementing OKRs in my personal life"
-date:   2020-08-01 12:43:00
+date:   2020-08-11 07:43:00
 categories: [blog, personal development]
 tags: [productivity, personal development]
 ---
